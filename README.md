@@ -26,5 +26,5 @@ Python3 Test_Task.py <Source_folder> <Replica_folder> <Synchronization Interval>
 ### 3. Interval: Synchronization interval in seconds.
 ### 4. Log_file: Path to the log file.
 
-### Stopping
+### For stopping the script
 ### Use `Ctrl+c` to stop the logging.
